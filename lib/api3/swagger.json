@@ -1568,7 +1568,7 @@
               "eventType": {
                 "type": "string",
                 "description": "The type of treatment event.\n\nNote&#58; this field is immutable by the client (it cannot be updated or patched)",
-                "example": "\"BG Check\", \"Snack Bolus\", \"Meal Bolus\", \"Correction Bolus\", \"Carb Correction\", \"Combo Bolus\", \"Announcement\", \"Note\", \"Question\", \"Exercise\", \"Site Change\", \"Sensor Start\", \"Sensor Change\", \"Pump Battery Change\", \"Insulin Change\", \"Temp Basal\", \"Profile Switch\", \"D.A.D. Alert\", \"Temporary Target\", \"OpenAPS Offline\", \"Bolus Wizard\""
+                "example": "\"BG Check\", \"Snack Bolus\", \"Meal Bolus\", \"Correction Bolus\", \"Long Acting Dose\", \"Carb Correction\", \"Combo Bolus\", \"Announcement\", \"Note\", \"Question\", \"Exercise\", \"Site Change\", \"Sensor Start\", \"Sensor Change\", \"Pump Battery Change\", \"Insulin Change\", \"Temp Basal\", \"Profile Switch\", \"D.A.D. Alert\", \"Temporary Target\", \"OpenAPS Offline\", \"Bolus Wizard\""
               },
               "glucose": {
                 "type": "string",
